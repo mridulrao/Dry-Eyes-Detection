@@ -10,11 +10,14 @@ Research project on early DED using image and statistical data
 1) Google Doc - https://docs.google.com/document/d/1azYNeBUQ65S1sP9DySW-3QrNX43hOeYotciDfc6XV_o/edit
 
 ## Shared Notes 
-Mridul 
-Initial Research - https://docs.google.com/document/d/11Gx8SAKbRyAh3RhHRuwlPD7iyKDcgtnUeeBm9iYnfAA/edit?usp=sharing
+### Mridul 
+1) Initial Research - https://docs.google.com/document/d/11Gx8SAKbRyAh3RhHRuwlPD7iyKDcgtnUeeBm9iYnfAA/edit?usp=sharing
 
-Kexin 
+### Kexin 
+1) 
 
-Divleen
+### Divleen
+1) 
 
-Aayushi
+### Aayushi
+1) 
