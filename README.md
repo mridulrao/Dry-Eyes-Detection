@@ -12,6 +12,7 @@ Research project on early DED using image and statistical data
 ## Shared Notes 
 ### Mridul 
 1) Initial Research - https://docs.google.com/document/d/11Gx8SAKbRyAh3RhHRuwlPD7iyKDcgtnUeeBm9iYnfAA/edit?usp=sharing
+2) New Dataset - http://www.varpa.es/research/optics.html
 
 ### Kexin 
 1) 
